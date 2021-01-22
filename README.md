@@ -15,7 +15,7 @@
 - ⚡ Fun fact : I believe, computers and ACs both are useless when you open Windows 😁
 
 - 🔗 **Connect with Me** :   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amishsaxena)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amish-saxena/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/amish.saxena.313)  
+[<img src='https://www.vhv.rs/dpng/d/420-4200342_github-icon-download-at-icons8-icon-github-hd.png' alt='github' height='40'>](https://github.com/amishsaxena)  [<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amish-saxena/)  [<img src='https://cdn.worldvectorlogo.com/logos/facebook-3.svg' alt='facebook' height='40'>](https://www.facebook.com/amish.saxena.313)  
 
 
 <h3 align="left">Languages and Tools:</h3>
