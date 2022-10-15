@@ -2,15 +2,9 @@
 
 - 👨🏻‍🎓 I’m a Computer Science and Engineering Sophomore at **Indian Institute Of Technology, Palakkad**
 
-- 🔭 I’m currently working on a Public Cloud related project
-
 - 🌱 I’m currently learning and exploring almost everything
 
 - 👯 I’m open for collaboration on projects across various domains
-
-- 🤝 I’m looking for help with OpenStack and Open source cloud deployment techniques
-
-- 📫 Reach me at amishsaxena111@gmail.com
 
 - ⚡ Fun fact : I believe, computers and ACs both are useless when you open Windows 😁
 
