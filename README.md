@@ -1,12 +1,11 @@
 <h1 align="center">Hey there, I'm Amish Saxena</h1>
 
-- 👨🏻‍🎓 I’m a Computer Science and Engineering Sophomore at **Indian Institute Of Technology, Palakkad**
+- 👨🏻‍🎓 SoftWare Engineer, CSE Graduate
 
-- 🌱 I’m currently learning and exploring almost everything
+- I am currently working with C++ and Boost. 
 
-- 👯 I’m open for collaboration on projects across various domains
+- 🌱 ---
 
-- ⚡ Fun fact : I believe, computers and ACs both are useless when you open Windows 😁
 
 - 🔗 **Connect with Me** :   
 [<img src='https://www.vhv.rs/dpng/d/420-4200342_github-icon-download-at-icons8-icon-github-hd.png' alt='github' height='40'>](https://github.com/amishsaxena)  [<img src='https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/amish-saxena/)  [<img src='https://cdn.worldvectorlogo.com/logos/facebook-3.svg' alt='facebook' height='40'>](https://www.facebook.com/amish.saxena.313)  
